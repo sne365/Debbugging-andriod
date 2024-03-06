@@ -37,9 +37,8 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+![project2](https://github.com/sne365/Debbugging-andriod/assets/35843851/c61fb161-3c88-4a59-a186-47075da70fd0)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
-![project2](https://github.com/sne365/Debbugging-andriod/assets/35843851/9bb1971f-5e78-4112-9e27-ede3076b962d)
 
 GIF created with **screen2gif**
 
