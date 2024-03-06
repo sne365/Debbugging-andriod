@@ -39,8 +39,9 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![project2](https://github.com/sne365/Debbugging-andriod/assets/35843851/9bb1971f-5e78-4112-9e27-ede3076b962d)
 
-GIF created with **your chosen GIF tool**
+GIF created with **screen2gif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
